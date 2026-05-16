@@ -19,12 +19,12 @@ Import browser-exported CSV password files into a KeePass (`.kdbx`) database —
 
 Install using pip:
 ```bash
-pip install git+https://github.com/you/csv2keepass
+pip install git+https://github.com/Veehementia/csv2keepass
 ```
 
 Or install from source:
 ```bash
-git clone https://github.com/yourusername/csv2keepass
+git clone https://github.com/Veehementia/csv2keepass
 cd csv2keepass
 pip install .
 ```
