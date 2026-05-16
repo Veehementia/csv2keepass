@@ -17,11 +17,7 @@ Import browser-exported CSV password files into a KeePass (`.kdbx`) database —
 
 **Requirements:** Python 3.10+
 
-```bash
-pip install csv2keepass
-```
-
-Or install from source:
+Install from source:
 
 ```bash
 git clone https://github.com/yourusername/csv2keepass
