@@ -1,6 +1,6 @@
 # csv2keepass
 
-Import browser-exported CSV password files into a KeePass (`.kdbx`) database — with safe, resumable progress tracking.
+Import browser-exported CSV password files into a KeePass (`.kdbx`) database — with safe, resumable progress tracking. Requires ```pykeepass```.
 
 ## Features
 
